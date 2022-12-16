@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(29,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(36,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(39,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(48,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(51,44): warning C4244: 'argument': conversion from 'size_t' to 'float', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(51,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(111,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(111,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(134,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(134,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(178,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(178,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(206,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\My Files\School\VS Projects\ComputerTechnology\src\main.cpp(206,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  FutureGames_SDL.vcxproj -> C:\My Files\School\VS Projects\ComputerTechnology\bin\Game_Debug.exe
